@@ -1,0 +1,28 @@
+E:\Youtube Channel\Dotnet Mob\Windows Application\Digital Clock\Project\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+E:\Youtube Channel\Dotnet Mob\Windows Application\Digital Clock\Project\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+E:\Youtube Channel\Dotnet Mob\Windows Application\Digital Clock\Project\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+E:\Youtube Channel\Dotnet Mob\Windows Application\Digital Clock\Project\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csprojResolveAssemblyReference.cache
+E:\Youtube Channel\Dotnet Mob\Windows Application\Digital Clock\Project\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+E:\Youtube Channel\Dotnet Mob\Windows Application\Digital Clock\Project\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+E:\Youtube Channel\Dotnet Mob\Windows Application\Digital Clock\Project\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.Cache
+E:\Youtube Channel\Dotnet Mob\Windows Application\Digital Clock\Project\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+E:\Youtube Channel\Dotnet Mob\Windows Application\Digital Clock\Project\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
+D:\Visual Studio\Vizual studio\Digital Clock in C#\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+D:\Visual Studio\Vizual studio\Digital Clock in C#\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+D:\Visual Studio\Vizual studio\Digital Clock in C#\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+D:\Visual Studio\Vizual studio\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Vizual studio\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+D:\Visual Studio\Vizual studio\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+D:\Visual Studio\Vizual studio\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.Cache
+D:\Visual Studio\Vizual studio\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+D:\Visual Studio\Vizual studio\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
+C:\Users\NattyXO\source\repos\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.AssemblyReference.cache
+C:\Users\NattyXO\source\repos\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\NattyXO\source\repos\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.cache
+C:\Users\NattyXO\source\repos\Digital Clock in C#\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\NattyXO\source\repos\Digital Clock in C#\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\NattyXO\source\repos\Digital Clock in C#\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\NattyXO\source\repos\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\NattyXO\source\repos\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+C:\Users\NattyXO\source\repos\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\NattyXO\source\repos\Digital Clock in C#\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
